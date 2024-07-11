@@ -1,0 +1,3 @@
+﻿  Die.cpp
+D:\CS2\Die\Die.cpp(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Die.vcxproj -> D:\CS2\Die\x64\Debug\Die.exe
